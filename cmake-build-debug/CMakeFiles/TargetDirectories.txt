@@ -1,0 +1,5 @@
+D:/Programacion Paralela/openmp_repaso/cmake-build-debug/CMakeFiles/rotar.dir
+D:/Programacion Paralela/openmp_repaso/cmake-build-debug/CMakeFiles/bordes.dir
+D:/Programacion Paralela/openmp_repaso/cmake-build-debug/CMakeFiles/mediana.dir
+D:/Programacion Paralela/openmp_repaso/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programacion Paralela/openmp_repaso/cmake-build-debug/CMakeFiles/rebuild_cache.dir
